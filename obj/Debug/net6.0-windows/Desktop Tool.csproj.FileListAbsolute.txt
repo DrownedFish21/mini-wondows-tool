@@ -1,0 +1,18 @@
+D:\Winform Application\Desktop Tool\bin\Debug\net6.0-windows\Desktop Tool.exe
+D:\Winform Application\Desktop Tool\bin\Debug\net6.0-windows\Desktop Tool.deps.json
+D:\Winform Application\Desktop Tool\bin\Debug\net6.0-windows\Desktop Tool.runtimeconfig.json
+D:\Winform Application\Desktop Tool\bin\Debug\net6.0-windows\Desktop Tool.dll
+D:\Winform Application\Desktop Tool\bin\Debug\net6.0-windows\Desktop Tool.pdb
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.csproj.AssemblyReference.cache
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.csproj.GenerateResource.cache
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.AssemblyInfoInputs.cache
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.AssemblyInfo.cs
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.csproj.CoreCompileInputs.cache
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.dll
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\refint\Desktop Tool.dll
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.pdb
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop Tool.genruntimeconfig.cache
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\ref\Desktop Tool.dll
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop_Tool.FrmMain.resources
+D:\Winform Application\Desktop Tool\obj\Debug\net6.0-windows\Desktop_Tool.Properties.Resources.resources
